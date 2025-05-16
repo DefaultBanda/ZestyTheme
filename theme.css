@@ -309,7 +309,7 @@
   }
 
   .layout-desktop .listViewUserDataButtons {
-    display: none;
+    display: revert;
   }
 
   /* Hide shuffle and replay buttons in media page */
